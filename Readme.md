@@ -26,5 +26,5 @@ Download Random Recipes [here](https://github.com/tahabisginsoftware/easyQR/rele
 <img align="left" alt="qr1" src="https://github.com/tahabisginsoftware/easyQR/blob/master/assets/screen_one.png" width="300"/>
 <img align="left" alt="qr2" src="https://github.com/tahabisginsoftware/easyQR/blob/master/assets/screen_two.png" width="300"/>
 <img align="left" alt="qr3" src="https://github.com/tahabisginsoftware/easyQR/blob/master/assets/screen_three.png" width="300"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ©TahaBisginSoftware, all rights reserved.

@@ -1,4 +1,4 @@
-![easyQR](https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/github%20cover.png "easyQR")
+![easyQR](https://github.com/tahabisginsoftware/easyQR/blob/master/assets/github%20cover.png "easyQR")
 
 easyQR.<br>
 Made by [Taha Bisgin](https://tahabisginsoftware.com).

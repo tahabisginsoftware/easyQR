@@ -44,14 +44,13 @@ export default function Scanner(){
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        flexDirection: 'column',
+        alignItems:'center',
         justifyContent: 'center',
         backgroundColor:'#d8dbe2',
     },
     tap: {
         position:'absolute', 
         bottom: 15,
-        left: 110,
         borderRadius: 12,
         width: 150,
         height: 50,

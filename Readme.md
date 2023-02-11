@@ -14,7 +14,7 @@ iOS & Android package installation: `npm install` / `yarn add`
 
 Start server: `npm start` / `yarn start`
 
-Run app: `npx expo start` / `npx expo start`
+Run app: `npx expo run android` / `npx expo ios`
 
 Alternatively, you can start both the server and the app up by: `npm run android` / `npm run ios`
 
